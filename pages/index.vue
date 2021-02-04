@@ -3,7 +3,7 @@
     <div>
       <Logo />
       <h1 class="title">
-        test-nuxtjs
+        Learn-nuxtjs
       </h1>
       <div class="links">
         <login />
